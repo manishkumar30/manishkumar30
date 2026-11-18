@@ -1,134 +1,189 @@
-# 👋 Hi, I'm Manish Kumar
 
-### Senior Software Engineer | Java | Spring Boot | Microservices | Distributed Systems
+<div align="center">
 
+  <h1>Hi, I'm Manish Kumar 👋</h1>
 
-\
+  <h3>Senior Software Engineer | Java | Spring Boot | Microservices</h3>
 
+  <img src="https://komarev.com/ghpvc/?username=manishkumar30&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
-```java
-public class ManishKumar {
+  <br/><br/>
 
-    String role = "Senior Software Engineer";
-    String company = "Airtel Digital";
-    String experience = "3+ Years";
+  <a href="https://www.linkedin.com/in/manish-kumar-13b5bb218/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
 
-    String[] interests = {
-        "Backend Engineering",
-        "Distributed Systems",
-        "Microservices Architecture",
-        "System Design",
-        "Problem Solving"
-    };
+  <a href="https://github.com/manishkumar30">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
 
-    String[] technologies = {
-        "Java", "Spring Boot", "Kafka",
-        "Redis", "PostgreSQL", "MongoDB",
-        "AWS", "Kubernetes"
-    };
-}
-```
+  <a href="https://leetcode.com/u/manish_87/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+  </a>
 
-## 🚀 About Me
+</div>
 
-I'm a Backend Software Engineer with **3+ years of experience** building scalable backend services, microservices and distributed applications.
+<hr/>
 
-Currently working at **Airtel Digital**, where I work on cloud-native backend services and platform engineering.
+<h2>🚀 About Me</h2>
 
-I enjoy designing reliable systems, solving complex engineering problems and understanding how large-scale distributed applications work under the hood.
+<p>
+  I'm a Backend Software Engineer with <b>3+ years of experience</b>
+  building scalable backend services, microservices and distributed applications.
+</p>
 
-- 💻 Building backend services using Java and Spring Boot.
-- ⚡ Exploring event-driven architectures using Apache Kafka.
-- 🏗️ Interested in System Design, Low-Level Design and Distributed Systems.
-- ☁️ Working with cloud technologies and containerized applications.
-- 🧠 Practicing Data Structures and Algorithms.
-- 🎯 Focused on becoming a better software engineer every day.
+<p>
+  Currently working at <b>Airtel Digital</b>, focusing on backend engineering
+  and cloud-native platform services.
+</p>
 
----
+<ul>
+  <li>💻 Building backend services using Java and Spring Boot.</li>
+  <li>⚡ Exploring event-driven architectures using Apache Kafka.</li>
+  <li>🏗️ Interested in System Design, Low-Level Design and Distributed Systems.</li>
+  <li>☁️ Working with cloud technologies and containerized applications.</li>
+  <li>🧠 Practicing Data Structures and Algorithms.</li>
+  <li>🎯 Focused on building impactful and scalable software solutions.</li>
+</ul>
 
-## 🛠️ Tech Stack
+<hr/>
 
-### 💻 Programming Languages
+<h2>🛠️ Tech Stack</h2>
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=java](https://skillicons.dev/icons?i=java)" height="45"/>   \<img src="[https://skillicons.dev/icons?i=python](https://skillicons.dev/icons?i=python)" height="45"/>   \<img src="[https://skillicons.dev/icons?i=postgres](https://skillicons.dev/icons?i=postgres)" height="45"/> \</p>
+<h3>💻 Programming Languages</h3>
 
-### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="SQL"/>
+</p>
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=spring](https://skillicons.dev/icons?i=spring)" height="45"/>   \<img src="[https://skillicons.dev/icons?i=kafka](https://skillicons.dev/icons?i=kafka)" height="45"/>   \<img src="[https://skillicons.dev/icons?i=hibernate](https://skillicons.dev/icons?i=hibernate)" height="45"/>   \<img src="[https://skillicons.dev/icons?i=redis](https://skillicons.dev/icons?i=redis)" height="45"/> \</p>
+<h3>⚙️ Backend Development</h3>
 
-### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="28" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" height="28" alt="Hibernate"/>
+  <img src="https://skillicons.dev/icons?i=redis" height="50" alt="Redis"/>
+</p>
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=postgres,mongodb,mysql](https://skillicons.dev/icons?i=postgres,mongodb,mysql)" height="45"/>
-\</p>
+<h3>🗄️ Databases</h3>
 
-### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB"/>
+</p>
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=aws,docker,kubernetes,gitlab,git](https://skillicons.dev/icons?i=aws,docker,kubernetes,gitlab,git)" height="45"/> \</p>
+<h3>☁️ Cloud & DevOps</h3>
 
-### 🔧 Tools & IDEs
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="Kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=gitlab" height="50" alt="GitLab"/>
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
+</p>
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=github,idea,vscode,postman](https://skillicons.dev/icons?i=github,idea,vscode,postman)" height="45"/> \</p>
+<h3>🔧 Tools & IDEs</h3>
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=idea" height="50" alt="IntelliJ IDEA"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman"/>
+</p>
 
-## 🏗️ Engineering Interests
+<hr/>
 
-I'm particularly interested in building and understanding:
+<h2>🏗️ Engineering Interests</h2>
 
-- **Microservices Architecture:** Service communication, API design and service reliability.
-- **Event-Driven Systems:** Kafka, asynchronous processing, retries and fault tolerance.
-- **Distributed Systems:** Scalability, consistency, availability and resiliency.
-- **Database Engineering:** Query optimization, indexing, caching and data modeling.
-- **System Design:** Designing scalable and maintainable real-world applications.
+<ul>
+  <li><b>Microservices Architecture:</b> Service communication, API design and reliability.</li>
+  <li><b>Event-Driven Systems:</b> Kafka, asynchronous processing, retries and fault tolerance.</li>
+  <li><b>Distributed Systems:</b> Scalability, consistency, availability and resiliency.</li>
+  <li><b>Database Engineering:</b> Query optimization, indexing, caching and data modeling.</li>
+  <li><b>System Design:</b> Designing scalable and maintainable applications.</li>
+  <li><b>Performance Engineering:</b> Improving application performance and resource utilization.</li>
+</ul>
 
----
+<hr/>
 
-## 💡 Projects & Engineering Experience
+<h2>💼 Professional Experience</h2>
 
-Some areas I've worked on or explored professionally:
+<h3>Senior Software Engineer | Airtel Digital</h3>
+<p><i>July 2026 – Present</i></p>
 
-| Project / Domain                     | Technologies                             |
-| ------------------------------------ | ---------------------------------------- |
-| Cloud Alert Onboarding Services      | Java, Spring Boot, PostgreSQL, REST APIs |
-| Event-Driven Microservices           | Java, Spring Boot, Kafka                 |
-| Data Encryption & Migration Services | Java, REST APIs, MongoDB                 |
-| Disaster Recovery & API Failover     | Java, Microservices                      |
+<ul>
+  <li>Working on backend services for cloud platform capabilities.</li>
+  <li>Developing REST APIs and configurable alert onboarding services.</li>
+  <li>Working with Java, Spring Boot and PostgreSQL.</li>
+</ul>
 
-*Descriptions are generalized to avoid sharing proprietary implementation details.*
+<h3>Software Developer | Amdocs</h3>
+<p><i>August 2023 – July 2026</i></p>
 
----
+<ul>
+  <li>Developed backend microservices using Java and Spring Boot.</li>
+  <li>Worked on REST APIs, Kafka-based communication and data migration.</li>
+  <li>Contributed to disaster recovery and API failover capabilities.</li>
+  <li>Worked on AI-powered microservices and integrations.</li>
+</ul>
 
-## 📊 GitHub Analytics
+<hr/>
 
-\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=manishkumar30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=manishkumar30\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)" height="165"/>   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=manishkumar30&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=manishkumar30\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165"/> \</p>
+<h2>📊 GitHub Analytics</h2>
 
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=manishkumar30&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=manishkumar30\&theme=tokyonight\&hide_border=true)" width="70%"/> \</p>
+<div align="center">
 
----
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=manishkumar30&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 
-## 🧩 Problem Solving
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkumar30&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-I regularly practice Data Structures and Algorithms to strengthen my problem-solving and analytical skills.
+  <br/><br/>
 
+  <img width="70%" src="https://streak-stats.demolab.com?user=manishkumar30&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
+</div>
 
----
+<hr/>
 
-## 📫 Let's Connect
+<h2>🧩 Problem Solving</h2>
 
-I'm always interested in connecting with engineers, discussing backend architecture and exploring interesting engineering challenges.
+<p>
+  I regularly practice Data Structures and Algorithms to strengthen
+  my problem-solving and analytical skills.
+</p>
 
-- 💼 **LinkedIn:** [Manish Kumar](https://www.linkedin.com/in/manish-kumar-13b5bb218/)
-- 💻 **GitHub:** [manishkumar30](https://github.com/manishkumar30)
-- 🧩 **LeetCode:** [manish_87](https://leetcode.com/u/manish_87/)
+<div align="center">
 
----
+  <a href="https://leetcode.com/u/manish_87/">
+    <img src="https://img.shields.io/badge/LeetCode-manish__87-orange?style=for-the-badge&logo=leetcode" alt="LeetCode Profile"/>
+  </a>
 
-\<p align="center">
-&#x20; \<i>"Great software is built by solving the right problems, one commit at a time."\</i>
-\</p>
+</div>
 
-\<p align="center">
-&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:0F2027,100:203A43\&height=100\&section=footer)"/>
-\</p>
+<hr/>
+
+<h2>📫 Let's Connect</h2>
+
+<p>
+  I'm always interested in connecting with engineers, discussing backend
+  architecture and exploring interesting engineering challenges.
+</p>
+
+<ul>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/manish-kumar-13b5bb218/">Manish Kumar</a></li>
+  <li>💻 GitHub: <a href="https://github.com/manishkumar30">manishkumar30</a></li>
+  <li>🧩 LeetCode: <a href="https://leetcode.com/u/manish_87/">manish_87</a></li>
+</ul>
+
+<hr/>
+
+<div align="center">
+
+  <h3><i>"Great software is built by solving the right problems, one commit at a time."</i></h3>
+
+  <br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=120&section=footer" width="100%" alt="Footer"/>
+
+</div>
